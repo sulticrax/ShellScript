@@ -12,7 +12,7 @@
 #           service postfix restart
 ##############################################################
 #
-# Set Environment vairables
+# Set Environment variables
 ###########################
 
 LOG=/bckup/bckup.log
