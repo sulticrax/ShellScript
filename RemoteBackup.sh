@@ -2,7 +2,7 @@
 ##############################################################
 # Author: Christo Deale
 # Date	: 2022-04-14 
-# RemoteBackup : Mounts Win10 HDD & does incremental backup
+# RemoteBackup :    Mounts Win10 HDD & does incremental backup
 #                   to location, tar.gz folder, move out of 
 #                   root partition & unmounts HDD. Repeat on a
 #                   weekly crontab.
