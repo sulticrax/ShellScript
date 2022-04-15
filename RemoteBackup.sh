@@ -2,10 +2,10 @@
 ##############################################################
 # Author: Christo Deale
 # Date	: 2022-04-14 
-# RemoteBackup :    Mounts Win10 HDD & does incremental backup
-#                   to location, tar.gz folder, move out of 
-#                   root partition & unmounts HDD. Repeat on a
-#                   weekly crontab.
+# RemoteBackup :    Mounts remote Win10 HDD & does incremental 
+#                   backup to location, tar.gz folder, move out 
+#                   of root partition & unmounts HDD. Repeat on
+#                   a weekly crontab.
 # 
 # sidenote: sudo yum intall mailx
 #           mfifo /var/spool/postfix/public/pickup
