@@ -1,5 +1,5 @@
 # ShellScript
-Shell scripts for use Redhat Linux variants
+Shell scripts for use on Redhat Linux variants
 
 ### Index
 - **RemoteBackup**: *Mounts remote Win10 HDD & does incremental backup to local location, tar.gz folder, move out of root partition & unmounts HDD. Execute on a weekly crontab*
