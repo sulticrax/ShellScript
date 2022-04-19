@@ -7,7 +7,7 @@
 #                   of root partition & unmounts HDD. Repeat on
 #                   a weekly crontab.
 # 
-# sidenote: sudo yum intall mailx
+# sidenote: sudo yum install mailx
 #           mfifo /var/spool/postfix/public/pickup
 #           service postfix restart
 ##############################################################
